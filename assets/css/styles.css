@@ -85,7 +85,7 @@
         justify-content: right;
         align-items: flex-end;
         font-size: 45px;
-        background-image: url(.//images/IMG_2840.JPG);
+        background-image: url(../images/IMG_2840.JPG);
     }
     
     .cool-tag div {
@@ -178,34 +178,34 @@
     }
     
     #RunBuddy {
-        background-image: url(.//images/hero-bg.jpg);
+        background-image: url(../images/hero-bg.jpg);
         height: 575px;
     }
     #RunBuddy:hover {
         opacity: 0.65;
     }
     #Horiseon {
-        background-image: url(.//images/digital-marketing-meeting.jpg);
+        background-image: url(../images/digital-marketing-meeting.jpg);
     }
     #Horiseon:hover {
         opacity: 0.65;
     }
     
     #JavaScript {
-        background-image: url(./images/IMG_2837.JPG);
+        background-image: url(../images/IMG_2837.JPG);
     }
     
     #JavaScript:hover {
     opacity: 0.65;
     }
     #Find-A-Story{
-        background-image: url(./images/hero-1.jpeg);
+        background-image: url(../images/hero-1.jpeg);
     }
     #Find-A-Story:hover{
     opacity: 0.65;
     }
     #Dont-Go-Broke{
-        background-image: url(./images/starsstuff.png);
+        background-image: url(../images/starsstuff.png);
     }
     #Dont-Go-Broke:hover{
         opacity: 0.65;
